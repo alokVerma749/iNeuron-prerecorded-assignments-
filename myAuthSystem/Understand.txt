@@ -1,0 +1,8 @@
+Building Authentication System :- Register, Login, Restricted Routes
+
+Register User:-
+ - get all information.
+ - check mandatory fields- validation.
+ - already registered
+ - take care of password
+ - generate token or send success message.S
